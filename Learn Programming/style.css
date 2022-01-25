@@ -1,0 +1,29 @@
+body {
+  height: 250px;
+  width: 275px;
+  font-family: sans-serif;
+  margin: 0px;
+}
+
+h1 {
+  text-align: center;
+  background-color: rgb(130, 199, 223);
+  color: white;
+  font-size: 22px;
+  padding: 15px;
+  margin: 0px;
+}
+
+ol {
+  margin-top: 15px;
+}
+
+li {
+  font-size: 18px;
+  margin: 5px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
